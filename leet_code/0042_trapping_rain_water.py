@@ -1,12 +1,7 @@
 from typing import *
 
 """
-18. 4Sum
-
-constraints
-* a, b, c and d are distinct
-* 
-
+42. Trapping Rain Water
 """
 
 class Solution:
