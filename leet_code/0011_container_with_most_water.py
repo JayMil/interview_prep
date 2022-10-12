@@ -55,7 +55,7 @@ def test_ordered():
     assert_are_equal(Solution().maxArea([1, 2, 4, 3]), 4)
 
 if __name__ == '__main__':
-    #test_base_case()
-    #test_all_zeros()
-    #test_min_size()
+    test_base_case()
+    test_all_zeros()
+    test_min_size()
     test_ordered()
